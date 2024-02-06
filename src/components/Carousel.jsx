@@ -135,6 +135,7 @@ export default function CaptionCarousel() {
           </Box>
         ))}
       </Slider>
+      <Box></Box>
     </Box>
   );
 }
